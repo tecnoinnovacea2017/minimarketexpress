@@ -1,0 +1,92 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.btn.btn-success {
+  background-color:#12A599;
+}
+.navbar-brand {
+  color:#12A599;
+}
+#title {
+  color:white;
+}
+#title:hover {
+  color:#12A599;
+  text-decoration: underline ;
+}
+.titulos {
+  color:#12A599;
+  cursor: pointer;
+}
+.titulos:hover {
+  color:black;
+  /*text-decoration: underline ;*/
+  /*como hacer que la linea sea de otro color?*/
+}
+.navbar.navbar-inverse.navbar-fixed-top {
+  background-color:negro;
+}
+
+#tec{
+  cursor:auto;
+}
+
+.jumbotron{
+  color:black;
+  
+}
+#an{
+  cursor: default;
+}
+
+#an:hover{
+  color:#12A599;
+}
+
+#la{
+  cursor: default;
+}
+#la:hover{
+  color:#12A599;
+}
+
+#gr{
+  cursor: default;
+}
+
+#gr:hover{
+  color:#12A599;
+}
+
+#na{
+  cursor: default;
+}
+
+#na:hover{
+  color:#12A599;
+}
+
+#fo{
+  cursor: default;
+}
+
+#fo:hover{
+  color:#12A599;
+}
+
+#te{
+  cursor: default;
+}
+
+#te:hover{
+  color:#12A599;
+}
+
+.btn.btn-default{
+  color:white;
+  background-color:#12A599;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
