@@ -26,7 +26,7 @@ body {
   /*como hacer que la linea sea de otro color?*/
 }
 .navbar.navbar-inverse.navbar-fixed-top {
-  background-color:negro;
+  background-color:black;
 }
 
 #tec{
@@ -34,8 +34,8 @@ body {
 }
 
 .jumbotron{
-  color:black;
-  
+  color:#black;
+
 }
 #an{
   cursor: default;
@@ -89,4 +89,19 @@ body {
   background-color:#12A599;
   padding-top: 5px;
   padding-bottom: 10px;
+}
+
+
+
+
+/*Edicion*/
+#registro {
+  color:white;
+  text-decoration: none;
+}
+input {
+  display:block;
+}
+.container {
+  margin:auto;
 }
